@@ -10,4 +10,4 @@ Mainly writing code in .NET (C#).
 
 [![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MrYusuf61&theme=dark)](https://github.com/MrYusuf61)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdmyslcck9&label=Profile%20views&color=0e75b6&style=flat" alt="erdmyslcck9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrYusuf61&label=Profile%20views&color=0e75b6&style=flat" alt="MrYusuf61" /> </p>
